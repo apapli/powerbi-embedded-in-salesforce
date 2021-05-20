@@ -34,8 +34,8 @@ This is a sample code snippet that enables you to build a Salesforce Lightning /
 ## Comparison with Einstein Analytics
 Note this is my personal view, not that of Microsoft's!
 
-Item                                | Power BI Embedded                  | Salesforce Einstein Analytics
-----------------------------------------------------------------------------------------------------------
+Item                                 | Power BI Embedded                 | Salesforce Einstein Analytics
+------------------------------------ | --------------------------------- | -----------------------------
 Build a new data warehouse           | No - leverage existing            | Probably not
 Duplicate data                       | No - leverage existing DW         | Most likely
 Native support for streaming data    | Yes                               | No

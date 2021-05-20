@@ -42,7 +42,7 @@ Native support for streaming data    | Yes                               | No
 Use your existing Power BI Skillsets | Yes                               | No
 Number of experienced consultants    | In the millions globally          | Ask Salesforce
 Re-use existing Power BI Reports     | Yes - just copy your embed code   | No
-Row level security on non-Salesforce data | Yes - leverage existing      | Ask Salesforce
+Row level security on non-Salesforce data | Yes - leverage your existing patterns     | Ask Salesforce
 Data residency                       | Per Azure & Power BI DC Locations | Ask Salesforce
 Data encryption at rest              | Avaiable                          | Ask Salesforce
 Bring your own encryption key        | Yes                               | Ask Salesforce

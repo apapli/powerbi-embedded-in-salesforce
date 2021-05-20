@@ -44,7 +44,7 @@ Number of experienced consultants    | In the millions globally          | Ask S
 Re-use existing Power BI Reports     | Yes - just copy your embed code   | No
 Data residency                       | Per Azure & Power BI DC Locations | Ask Salesforce
 Data encryption at rest              | Avaiable                          | Ask Salesforce
-Bring your own encryption key        | Yes                               | Yes
+Bring your own encryption key        | Yes                               | Ask Salesforce
 Additional licensing requirement     | Included with Power BI Premium*   | Ask Salesforce
-* Power BI Embedded drives additional consumption on your Power BI premium, but does not attract an additional per-user charge
+/* Power BI Embedded drives additional consumption on your Power BI premium, but does not attract an additional per-user charge
 

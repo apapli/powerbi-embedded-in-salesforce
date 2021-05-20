@@ -34,14 +34,17 @@ This is a sample code snippet that enables you to build a Salesforce Lightning /
 ## Comparison with Einstein Analytics
 Note this is my personal view, not that of Microsoft's!
 
-Item | Power BI Embedded | Salesforce Einstein Analytics
--------
-Build a new data warehouse | No - leverage existing | Probably not
-Duplicate data | No - leverage existing DW | Most likely
-Native support for streaming data | Yes | No
-Use your existing Power BI Skillsets | Yes | No
-Data residency | Per Azure & Power BI DC Locations | Ask Salesforce
-Data encryption at rest | Avaiable | Ask Salesforce
-Bring your own encryption key | Yes | Yes
-Additional licensing requirement | Included with Power BI Premium (pay for consumption) | Ask Salesforce
+Item                                | Power BI Embedded                  | Salesforce Einstein Analytics
+----------------------------------------------------------------------------------------------------------
+Build a new data warehouse           | No - leverage existing            | Probably not
+Duplicate data                       | No - leverage existing DW         | Most likely
+Native support for streaming data    | Yes                               | No
+Use your existing Power BI Skillsets | Yes                               | No
+Number of experienced consultants    | In the millions globally          | Ask Salesforce
+Re-use existing Power BI Reports     | Yes - just copy your embed code   | No
+Data residency                       | Per Azure & Power BI DC Locations | Ask Salesforce
+Data encryption at rest              | Avaiable                          | Ask Salesforce
+Bring your own encryption key        | Yes                               | Yes
+Additional licensing requirement     | Included with Power BI Premium*   | Ask Salesforce
+* Power BI Embedded drives additional consumption on your Power BI premium, but does not attract an additional per-user charge
 

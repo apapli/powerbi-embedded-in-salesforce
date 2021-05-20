@@ -36,7 +36,7 @@ Note this is my personal view, not that of Microsoft's!
 
 Item                                 | Power BI Embedded                 | Salesforce Einstein Analytics
 ------------------------------------ | --------------------------------- | -----------------------------
-Build a new data platform            | No - leverage existing            | Yes - need to set up a new Einstein Analytics environment
+Build a new data platform            | No - leverage existing            | Yes - need to set up a new Einstein Analytics environment complete with pipelines to ingest data
 Duplicate data                       | No - leverage existing DW         | Most likely
 Native support for streaming data    | Yes                               | No
 Use your existing Power BI Skillsets | Yes                               | No

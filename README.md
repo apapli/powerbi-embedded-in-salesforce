@@ -36,7 +36,7 @@ Note this is my personal view, not that of Microsoft's!
 
 Item                                 | Power BI Embedded                 | Salesforce Einstein Analytics
 ------------------------------------ | --------------------------------- | -----------------------------
-Build a new data warehouse           | No - leverage existing            | Probably not
+Build a new data platform            | No - leverage existing            | Yes - need to set up a new Einstein Analytics environment
 Duplicate data                       | No - leverage existing DW         | Most likely
 Native support for streaming data    | Yes                               | No
 Use your existing Power BI Skillsets | Yes                               | No
@@ -46,5 +46,5 @@ Data residency                       | Per Azure & Power BI DC Locations | Ask S
 Data encryption at rest              | Avaiable                          | Ask Salesforce
 Bring your own encryption key        | Yes                               | Ask Salesforce
 Additional licensing requirement     | Included with Power BI Premium*   | Ask Salesforce
-/* Power BI Embedded drives additional consumption on your Power BI premium, but does not attract an additional per-user charge
+** Power BI Embedded drives additional consumption on your Power BI premium, but does not attract an additional per-user charge
 

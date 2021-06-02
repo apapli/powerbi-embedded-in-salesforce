@@ -6,7 +6,7 @@
     <aura:attribute name="frameBorder" type="String" />
     <aura:attribute name="style" type="String" />
     <aura:attribute name="sandbox" type="String" />
-    <iframe src='https://msit.powerbi.com/reportEmbed?reportId=445cbe7d-a5a9-46d5-9f8b-c159ebecb68f&amp;autoAuth=true'
+    <iframe src='https://msit.powerbi.com/reportEmbed?reportId=xxxxx&amp;autoAuth=true'
             width="960"
             height="400"
             style="{!v.style}"

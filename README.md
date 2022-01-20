@@ -2,15 +2,13 @@
 
 This is a sample code snippet that enables you to build a Salesforce Lightning / Aura component embedding your Power BI report.
 
-## Benefits:
+## Benefits & Use Cases:
 * leverage your Power BI skillset without needing to learn a new analytics product
 * provide a true 360 degree view of your cusotmer by leveraging data across your data estate
 * re-use Power BI reports and enable end users visibility to the data they need in the application they need them in
+* provide real time streaming data to your service agents, for example mobile tower signal strength, bank transaction metadata, and other telemetry
+* provide future looking data based on AI you have implemented inside your Azure data platform
 
-## Use cases:
-* provide real time streaming data to your service agents, for example mobile tower signal strength, bandwidth utilization and other telemetry
-* provide future looking data based on AI you have implemented
-* 
 
 ## Instructions:
 - Create a new lightning component via the Salesforce developer console

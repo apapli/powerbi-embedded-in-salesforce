@@ -4,11 +4,10 @@ This is a sample code snippet that enables you to build a Salesforce Lightning /
 
 ## Benefits & Use Cases:
 * leverage your Power BI skillset without needing to learn a new analytics product
-* provide a true 360 degree view of your cusotmer by leveraging data across your data estate
+* provide a true 360 degree view of your customers by leveraging data across your data estate
 * re-use Power BI reports and enable end users visibility to the data they need in the application they need them in
-* provide real time streaming data to your service agents, for example mobile tower signal strength, bank transaction metadata, and other telemetry
+* provide real time streaming data to your service agents and sales reps, for example mobile tower signal strength, product usage info, bank transaction metadata etc
 * provide future looking data based on AI you have implemented inside your Azure data platform
-
 
 ## Instructions:
 - Create a new lightning component via the Salesforce developer console
@@ -16,7 +15,7 @@ This is a sample code snippet that enables you to build a Salesforce Lightning /
 - Save the component, wait a minute or two for it to sync and become available in your lightning page builder
 - Open the lightning page builder, drag and drop the component onto the page layout you'd like to have it on
 - Publish the page
-- Enjoy, you now have enterprise grade analytics functionality inside your Salesforce instance to provide amazing insights to your users!
+- Enjoy, you now have enterprise grade dashboarding functionality using PowerBI inside your Salesforce instance to provide amazing insights to your users!
 
 ## Credits:
 * https://salesforce.stackexchange.com/questions/166612/is-it-posible-to-add-iframe-directly-in-lightning-components

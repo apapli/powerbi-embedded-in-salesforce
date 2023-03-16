@@ -12,6 +12,7 @@ This is a sample code snippet that enables you to build a Salesforce Lightning /
 ## Instructions:
 - Create a new lightning component via the Salesforce developer console
 - Copy the code in each file in this repo into the appropriate components
+- In line 9 in the PowerBI_1.cmp file, replace the iframe URL with your correct PowerBI report location (ie replace <iframe src='https://msit.powerbi.com/reportEmbed?reportId=xxxxx&amp;autoAuth=true')
 - Save the component, wait a minute or two for it to sync and become available in your lightning page builder
 - Open the lightning page builder, drag and drop the component onto the page layout you'd like to have it on
 - Publish the page
